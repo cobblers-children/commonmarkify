@@ -1,1 +1,5 @@
 bower_components
+
+#IDE files
+.idea
+*.iml
